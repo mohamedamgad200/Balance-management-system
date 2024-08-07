@@ -1,0 +1,91 @@
+<nav class="nav-bar-bank">
+    <img src="../../../../assets/logo-edit.png" alt="">
+    <div class="nav-container">
+        <div class="content">
+            <div>
+                <img src="../../../../assets/profile.jpeg" alt="">
+            </div>
+            <div class="mido">
+                <h2>Bank</h2>
+                <p>Super admin</p>
+            </div>
+            <div class="icon"><button style="background-color: transparent; border:transparent;"><i
+                        class="fa-solid fa-right-from-bracket" (click)="logout()"></i></button></div>
+        </div>
+    </div>
+</nav>
+<hr>
+<section class="choice">
+    <ul class="unstyled">
+        <li><button (click)="balancepage()">Balance</button></li>
+        <li><button class="active" (click)="transactionpage()">Transactions</button></li>
+    </ul>
+</section>
+<hr>
+<section>
+    <div class="body">
+        <input type="date" [(ngModel)]="filterDate" (change)="applyFilter()">
+        <select [(ngModel)]="filterTransactionType" (change)="applyFilter()">
+            <option value="0">All</option>
+            <option value="1">debit</option>
+            <option value="2">credit</option>
+        </select>
+        <select [(ngModel)]="filterStatus" (change)="applyFilter()">
+            <option value="All">All</option>
+            <option value="Pending">Pending</option>
+            <option value="Rejected">Rejected</option>
+            <option value="Success">Success</option>
+        </select>
+    </div>
+
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th><input type="checkbox" name="" id=""></th>
+                    <th>Bank Number</th>
+                    <th>Creation date</th>
+                    <th>Transaction Type</th>
+                    <th>Amount</th>
+                    <th>Balance Before</th>
+                    <th>Balance After</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let deposit of filteredDeposits">
+                    <td><input type="checkbox" name="" id=""></td>
+                    <td>
+                        <div>{{ deposit.bankAccountNumber }}</div>
+                        <div>{{ deposit.bankName }}</div>
+                    </td>
+                    <td>{{ formatDate(deposit.date) }}</td>
+                    <td>{{deposit.type}}</td>
+                    <td>{{ deposit.amount }}</td>
+                    <td>{{deposit.balancebefore}}</td>
+                    <td>{{deposit.blanaceafter}}</td>
+                    <td>
+                        <p
+                            [ngClass]="{ 'Pending': deposit.status === 'pending', 'success': deposit.status === 'success', 'rejected': deposit.status === 'rejected' }">
+                            <i *ngIf="deposit.status === 'pending'" class="fa-solid fa-spinner"></i>
+                            <i *ngIf="deposit.status === 'success'" class="fa-solid fa-check"></i>
+                            <i *ngIf="deposit.status === 'rejected'" class="fa-solid fa-x"></i>
+                            {{ deposit.status }}
+                        </p>
+                    </td>
+
+                    <td>
+                        <button (click)="openBankReviewModal(deposit)" class="btn">
+                            <i class="fa-solid fa-pen"></i> Action
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <!-- <div class="center">
+        <button class="approve">Approve all</button>
+        <button class="reject">Reject all</button>
+    </div> -->
+</section>

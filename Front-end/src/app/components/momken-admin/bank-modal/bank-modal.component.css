@@ -1,0 +1,88 @@
+/* Add this CSS to your component's CSS file */
+
+.bank-modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bank-modal form {
+  width: 800px; /* Adjust the width as needed */
+}
+.close {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 10px;
+}
+.drop-area {
+  border: 1px dashed gray;
+  color: black;
+}
+.center {
+  text-align: center;
+}
+.center i {
+  font-size: 60px;
+}
+.label {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+.drop {
+  text-align: center;
+}
+.title {
+  color: #3c9078;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 80px;
+}
+.bank-modal mat-form-field {
+  width: 100%;
+  margin-bottom: 10px; /* Add spacing between form fields */
+}
+
+.bank-modal input[type="file"] {
+  margin-top: 10px; /* Add spacing above the file input */
+}
+
+.bank-modal mat-dialog-actions {
+  justify-content: center;
+}
+.preview-image {
+  max-width: 100%; /* Adjust as needed */
+  max-height: 200px; /* Adjust as needed */
+  margin-top: 10px; /* Add some margin for spacing */
+}
+.inline {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+}
+.inline button {
+  display: block;
+  margin: 10px;
+}
+.inline .cancel {
+  background-color: white;
+  color: #3c9078;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid #3c9078;
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+}
+.inline .submit {
+  background-color: #3c9078;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: transparent;
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+  display: block;
+  margin-right: 10px;
+}

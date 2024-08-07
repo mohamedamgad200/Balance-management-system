@@ -1,0 +1,272 @@
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.json
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.exe
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.deps.json
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.runtimeconfig.json
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.pdb
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.AssemblyReference.cache
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfo.cs
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.alahaly_momken.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.build.alahaly_momken.props
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.alahaly_momken.props
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.alahaly_momken.props
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\scopedcss\bundle\alahaly_momken.styles.css
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CopyComplete
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\refint\alahaly_momken.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.pdb
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.genruntimeconfig.cache
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\obj\Debug\net6.0\ref\alahaly_momken.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Humanizer.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\desha\source\repos\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.Development.json
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.json
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.exe
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.deps.json
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.runtimeconfig.json
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.pdb
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Humanizer.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\gis\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.AssemblyReference.cache
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.GeneratedMSBuildEditorConfig.editorconfig
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfoInputs.cache
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfo.cs
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CoreCompileInputs.cache
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cs
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cache
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.alahaly_momken.Microsoft.AspNetCore.StaticWebAssets.props
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.build.alahaly_momken.props
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.alahaly_momken.props
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.alahaly_momken.props
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.pack.json
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.build.json
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.development.json
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\scopedcss\bundle\alahaly_momken.styles.css
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CopyComplete
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.dll
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\refint\alahaly_momken.dll
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.pdb
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.genruntimeconfig.cache
+E:\gis\alahaly_momken\alahaly_momken\obj\Debug\net6.0\ref\alahaly_momken.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.json
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.exe
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.deps.json
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.runtimeconfig.json
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.pdb
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Humanizer.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.AssemblyReference.cache
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfoInputs.cache
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfo.cs
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CoreCompileInputs.cache
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.alahaly_momken.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.build.alahaly_momken.props
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.alahaly_momken.props
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.alahaly_momken.props
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\scopedcss\bundle\alahaly_momken.styles.css
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CopyComplete
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\refint\alahaly_momken.dll
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.pdb
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.genruntimeconfig.cache
+C:\Users\legion\Desktop\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\ref\alahaly_momken.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.Development.json
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\appsettings.json
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.exe
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.deps.json
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.runtimeconfig.json
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\alahaly_momken.pdb
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Humanizer.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.AssemblyReference.cache
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.GeneratedMSBuildEditorConfig.editorconfig
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfoInputs.cache
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.AssemblyInfo.cs
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CoreCompileInputs.cache
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cs
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.MvcApplicationPartsAssemblyInfo.cache
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.alahaly_momken.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.build.alahaly_momken.props
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.alahaly_momken.props
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.alahaly_momken.props
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.pack.json
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.build.json
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\staticwebassets.development.json
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\scopedcss\bundle\alahaly_momken.styles.css
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.csproj.CopyComplete
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\refint\alahaly_momken.dll
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.pdb
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\alahaly_momken.genruntimeconfig.cache
+D:\4th year\second semester\ERP\Erp-project\version4\alahaly_momken\alahaly_momken\obj\Debug\net6.0\ref\alahaly_momken.dll

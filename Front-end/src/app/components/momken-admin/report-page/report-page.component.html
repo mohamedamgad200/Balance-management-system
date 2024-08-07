@@ -1,0 +1,110 @@
+<nav class="nav-bar-bank">
+    <img src="../../../../assets/logo-edit.png" alt="">
+    <div class="nav-container">
+        <div class="content">
+            <div>
+                <img src="../../../../assets/profile.jpeg" alt="">
+            </div>
+            <div class="mido">
+                <h2>Momkn</h2>
+                <p>Super admin</p>
+            </div>
+            <div class="icon">
+                <button style="background-color: transparent; border: transparent;" (click)="logout()">
+                    <i class="fa-solid fa-right-from-bracket"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</nav>
+<hr>
+<section class="choice">
+    <ul class="unstyled">
+        <li><button (click)="balancepage()">Balance</button></li>
+        <li><button (click)="transactionpage()">Transactions</button></li>
+        <li><button class="active">Reports</button></li>
+    </ul>
+</section>
+<hr>
+<section>
+    <button class="name first active">Closing Transactions Summary</button>
+</section>
+<hr>
+<section>
+    <div class="body">
+        <input type="date" [(ngModel)]="selectedDate" (change)="onDateChange()">
+    </div>
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Bank Number</th>
+                    <th>Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Date/Time</td>
+                    <td>{{ reportData.lastTransactionDate | date: 'dd MMMM yyyy hh:mm:ss a' }}</td>
+                </tr>
+                <tr>
+                    <td>Opening balance</td>
+                    <td>{{ reportData.openingBalance
+                        }} EGP</td>
+                </tr>
+                <tr>
+                    <td>Count of Momkn deposit</td>
+                    <td>{{ reportData.
+                        depositCount }}</td>
+                </tr>
+                <tr>
+                    <td>Amount of Momkn deposit</td>
+                    <td>{{ reportData.depositTotalAmount }} EGP</td>
+                </tr>
+                <tr>
+                    <td>Count of cash in</td>
+                    <td>{{ reportData.depositCount }}</td>
+                </tr>
+                <tr>
+                    <td>Amount of cash in</td>
+                    <td>{{ reportData.depositTotalAmount }} EGP</td>
+                </tr>
+                <tr>
+                    <td>Count of cash out</td>
+                    <td>{{ reportData.depitCount
+                        }}</td>
+                </tr>
+                <tr>
+                    <td>Amount of cash out</td>
+                    <td>{{ reportData.
+                        depitTotalAmount
+                        }} EGP</td>
+                </tr>
+                <tr>
+                    <td>Incremental count</td>
+                    <td>{{ reportData.increaseCount
+                        }}</td>
+                </tr>
+                <tr>
+                    <td>Incremental amount</td>
+                    <td>{{ reportData.increaseTotalAmount
+                        }} EGP</td>
+                </tr>
+                <tr>
+                    <td>Decremental count</td>
+                    <td>{{ reportData.decreaseCount }}</td>
+                </tr>
+                <tr>
+                    <td>Decremental amount</td>
+                    <td>{{ reportData.decreaseTotalAmount
+                        }} EGP</td>
+                </tr>
+                <tr>
+                    <td>Closed balance</td>
+                    <td>{{ reportData.closingBalance
+                        }} EGP</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>

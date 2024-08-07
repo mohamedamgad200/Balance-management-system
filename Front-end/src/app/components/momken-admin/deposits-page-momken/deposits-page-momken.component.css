@@ -1,0 +1,203 @@
+.nav-bar img {
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+td .Pending {
+  background-color: rgb(241, 221, 182);
+  color: orange;
+  border-radius: 10px;
+  width: 90px;
+  height: 20px;
+  text-align: center;
+}
+td .rejected {
+  background-color: rgb(222, 86, 86, 0.5);
+  color: red;
+  border-radius: 10px;
+  width: 90px;
+  height: 20px;
+  text-align: center;
+}
+td .success {
+  background-color: rgb(54, 188, 54, 0.5);
+  color: green;
+  border-radius: 10px;
+  width: 90px;
+  height: 20px;
+  text-align: center;
+}
+.btn {
+  background-color: white;
+  width: 80px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.nav-bar-bank {
+  display: flex;
+}
+.nav-bar-bank .nav-container .content {
+  display: flex;
+}
+.nav-bar-bank .nav-container .content .mido {
+  margin-top: -2px;
+  margin-left: 20px;
+}
+.nav-bar-bank .nav-container .content .mido p {
+  display: block;
+  margin-top: -20px;
+}
+.nav-bar-bank .nav-container .content .icon {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.nav-bar-bank .nav-container {
+  margin-left: auto; /* Move to the end of the line on the right */
+}
+.nav-bar-bank img {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+hr {
+  border-color: rgba(
+    237,
+    237,
+    237,
+    0.3
+  ); /* Sets the color of the horizontal rule */
+  border-width: 1px; /* Sets the width of the horizontal rule */
+}
+
+.nav-container img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.choice ul {
+  list-style: none;
+}
+.choice ul li {
+  display: inline-block;
+  margin-left: 30px;
+}
+.choice ul li button {
+  color: #3c9078;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 5px 10px;
+  border: none;
+  background-color: white;
+}
+.choice ul li .active {
+  background-color: rgb(231, 230, 230);
+}
+.table-container {
+  width: 80%;
+  margin: 20px auto; /* Centers the table horizontally */
+  border: 1px solid rgba(190, 185, 185, 0.2);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+thead tr {
+  background-color: rgb(225, 223, 219);
+  border: none;
+}
+
+th,
+td,
+tr {
+  /* Apply styles to all except last td */
+  padding: 20px;
+  border-bottom: 1px solid rgba(190, 185, 185, 0.2);
+  text-align: left;
+}
+
+td:last-child {
+  /* Styles for the last td only */
+  padding: 8px;
+  border-bottom: 1px solid rgba(190, 185, 185, 0.2);
+  border-left: 1px solid rgba(190, 185, 185, 0.2);
+  border-right: none; /* Remove right border */
+  border-top: none; /* Remove top border for last td */
+  text-align: left;
+}
+
+tr {
+  border: none;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  color: #3c9078;
+  display: inline-block;
+  background-color: white;
+  border: none;
+  margin-right: 10px;
+}
+
+.first {
+  margin-left: 80px;
+}
+.active {
+  border-bottom: 3px solid #3c9078;
+}
+.body {
+  display: flex;
+  flex-direction: row;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+
+.body input {
+  width: 200px;
+  border-radius: 10px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.body select {
+  width: 150px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: white;
+  height: 32px;
+  margin-right: 10px;
+}
+.icon-container {
+  margin-left: auto;
+  margin-right: 20px;
+  background-color: #3c9078;
+  color: white;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding-top: 10px;
+}
+.deposite {
+  float: right;
+  background-color: #3c9078;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 50px;
+  margin-right: 20px;
+}

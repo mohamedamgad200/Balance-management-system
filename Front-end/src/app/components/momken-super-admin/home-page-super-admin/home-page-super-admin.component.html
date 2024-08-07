@@ -1,0 +1,41 @@
+<nav class="nav-bar-bank">
+    <img src="../../../../assets/logo-edit.png" alt="">
+    <div class="nav-container">
+        <div class="content">
+            <div>
+                <img src="../../../../assets/profile.jpeg" alt="">
+            </div>
+            <div class="mido">
+                <h2>Momken</h2>
+                <p>Super admin</p>
+            </div>
+            <div class="icon"><button style="background-color: transparent; border:transparent;" (click)="logout()"><i
+                        class="fa-solid fa-right-from-bracket"></i></button></div>
+        </div>
+    </div>
+</nav>
+<hr>
+<section class="choice">
+    <ul class="unstyled">
+        <li><button class="active" (click)="companypage()">Create Company</button></li>
+        <li><button (click)="bankpage()">Create Bank</button></li>
+    </ul>
+</section>
+<hr>
+<section>
+    <div class="container">
+        <h2>Welcome Back Super Admin</h2>
+        <p>Enter your name email and password to create company</p>
+        <form [formGroup]="companyForm" (ngSubmit)="createCompany()">
+            <label for="name" class="pb-2">Name</label>
+            <input type="text" formControlName="name" placeholder="alahlymomkn">
+            <label for="email" class="pb-2">Email</label>
+            <input type="email" formControlName="email" placeholder="Nan@alahlymomkn.com">
+            <label for="password" class="pb-2">Password</label>
+            <input type="password" formControlName="password"
+                placeholder="&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;">
+            <button type="submit" class="btn">Create</button>
+            <p *ngIf="successMessage" class="success-message">{{ successMessage }}</p>
+        </form>
+    </div>
+</section>

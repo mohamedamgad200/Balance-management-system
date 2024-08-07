@@ -1,0 +1,12 @@
+<!-- bank-reject-modal.component.html -->
+<div class="close">
+    <i class="fa-solid fa-xmark" (click)="onClose()"></i>
+</div>
+<mat-dialog-content class="bank-modal">
+    <p style="color: black;"><strong>Rejection Reason</strong></p>
+    <textarea matInput [(ngModel)]="data.message" rows="5" name="notes" placeholder="Field text" class="text-area"
+        readonly="text" style="font-size: 30px;font-weight: bold;"></textarea>
+</mat-dialog-content>
+<mat-dialog-actions class="bank-modal-buttons">
+    <button mat-button (click)="onClose()" class="cancel">close</button>
+</mat-dialog-actions>

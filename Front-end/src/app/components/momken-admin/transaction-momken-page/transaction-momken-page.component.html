@@ -1,0 +1,70 @@
+<nav class="nav-bar-bank">
+    <img src="../../../../assets/logo-edit.png" alt="">
+    <div class="nav-container">
+        <div class="content">
+            <div>
+                <img src="../../../../assets/profile.jpeg" alt="">
+            </div>
+            <div class="mido">
+                <h2>Momkn</h2>
+                <p>Super admin</p>
+            </div>
+            <div class="icon"><button style="background-color: transparent; border:transparent;"><i
+                        class="fa-solid fa-right-from-bracket" (click)="logout()"></i></button></div>
+        </div>
+    </div>
+</nav>
+<hr>
+<section class="choice">
+    <ul class="unstyled">
+        <li><button (click)="balancepage()">Balance</button></li>
+        <li><button class="active">Transactions</button></li>
+        <li><button (click)="reportpage()">Reports</button></li>
+    </ul>
+</section>
+<hr>
+<section>
+    <!-- <a href="report-page" class="name first">Deposits</a>
+    <a href="transaction-page" class="name">Merchant Transaction log</a> 
+-->
+    <button class="name first" (click)="depositepage()">Deposits</button>
+    <button class="active name" (click)="transactionpage()">Merchant Transaction log</button>
+</section>
+<hr>
+<section>
+    <div class="body">
+        <input type="date" [(ngModel)]="filterDate" (change)="applyFilter()">
+        <select [(ngModel)]="filterTransactionType" (change)="applyFilter()">
+            <option value="0">All</option>
+            <option value="1">cashin</option>
+            <option value="2">cashout</option>
+        </select>
+    </div>
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th><input type="checkbox" name="" id=""></th>
+                    <th>Bank Number</th>
+                    <th>Creation date</th>
+                    <th>Merchant ID</th>
+                    <th>Amount</th>
+                    <th>Transaction Type</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let deposit of filteredDeposits">
+                    <td><input type="checkbox" name="" id=""></td>
+                    <td>
+                        <div>{{ deposit.bankAccountNumber }}</div>
+                        <div>{{ deposit.bankName }}</div>
+                    </td>
+                    <td>{{ formatDate(deposit.date) }}</td>
+                    <td>{{deposit.id}}</td>
+                    <td>{{ deposit.amount }}</td>
+                    <td>{{deposit.transicationtype}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>

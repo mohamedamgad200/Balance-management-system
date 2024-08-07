@@ -1,0 +1,66 @@
+<nav class="nav-bar-bank">
+    <img src="../../../../assets/logo-edit.png" alt="">
+    <div class="nav-container">
+        <div class="content">
+            <div>
+                <img src="../../../../assets/profile.jpeg" alt="">
+            </div>
+            <div class="mido">
+                <h2>Bank</h2>
+                <p>Super admin</p>
+            </div>
+            <div class="icon"><button style="background-color: transparent; border:transparent;" (click)="logout()"><i
+                        class="fa-solid fa-right-from-bracket"></i></button></div>
+        </div>
+    </div>
+</nav>
+<hr>
+<section class="choice">
+    <ul class="unstyled">
+        <li><button class="active" (click)="balancepage()">Balance</button></li>
+        <li><button (click)="transactionpage()">Transactions</button></li>
+    </ul>
+</section>
+<hr>
+<section>
+    <div class="container-bank">
+        <div class="container-bank-inner">
+            <div class="content" style="display: flex;">
+                <div class="left">
+                    <h2>Momkn Balance</h2>
+                    <p>EGP {{balance}}</p>
+                </div>
+                <div class="right">
+                    <i class="fa-solid fa-wallet" style="display: block;"></i>
+                </div>
+            </div>
+            <p style="color: #3c9078; font-size: 15px; font-weight: bold;">last updated in: {{ lastUpdated }}</p>
+        </div>
+        <div class="container-bank-inner-correction">
+            <div class="content">
+                <h2>Balance Correction</h2>
+                <div class="line">
+                    <div class="left">
+                        <p>Amount</p>
+                        <input type="number" [(ngModel)]="amount" placeholder="00000000000000" />
+                    </div>
+                    <div class="right">
+                        <p>Action Type</p>
+                        <section class="select">
+                            <select [(ngModel)]="actionType">
+                                <option value="increase">Increase</option>
+                                <option value="decrease">Decrease</option>
+                            </select>
+                            <div class="inside-right">
+                                <button (click)="correctBalance() ">Approve</button>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="imge">
+                <!-- <img src="wallet.PNG" alt=""> -->
+            </div>
+        </div>
+    </div>
+</section>

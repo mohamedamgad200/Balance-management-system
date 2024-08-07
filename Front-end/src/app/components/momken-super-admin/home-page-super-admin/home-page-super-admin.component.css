@@ -1,0 +1,265 @@
+.container-bank-inner {
+  width: 600px;
+  padding: 20px;
+  background-color: #fefffe;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 150px;
+  border-radius: 30px;
+}
+.container-bank h2 {
+  color: #3c9078;
+}
+.success-message {
+  color: green;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 10px;
+  padding-right: 35px;
+}
+.container-bank-inner-correction {
+  width: 600px;
+  padding: 20px;
+  background-color: #fefffe;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 200px;
+  border-radius: 30px;
+  margin-top: 50px;
+}
+.nav-bar img {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.nav-bar-bank {
+  display: flex;
+}
+.nav-bar-bank .nav-container .content {
+  display: flex;
+}
+.nav-bar-bank .nav-container .content .mido {
+  margin-top: -2px;
+  margin-left: 20px;
+}
+.nav-bar-bank .nav-container .content .mido p {
+  display: block;
+  margin-top: -20px;
+}
+.nav-bar-bank .nav-container .content .icon {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.nav-bar-bank .nav-container {
+  margin-left: auto; /* Move to the end of the line on the right */
+}
+.nav-bar-bank img {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+.container-bank {
+  width: 1450px;
+  padding: 20px;
+  background-color: #ededed;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 500px;
+  border-radius: 30px;
+}
+.nav-container img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.line {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; /* Adjust spacing between rows as needed */
+}
+
+.line p {
+  font-size: 15px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.line .left {
+  margin-right: 150px;
+  margin-top: -60px;
+  text-align: left;
+}
+.container-bank-inner .content .left p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.line .right {
+  margin-top: -20px;
+}
+.line .right .inside-right {
+  margin-left: 100px;
+}
+.line input[type="text"] {
+  width: 200px; /* Adjust input width as needed */
+  border-radius: 8px;
+  height: 30px;
+}
+.line .right .select select {
+  width: 200px;
+  height: 40px;
+  border-radius: 8px;
+}
+.line .right .inside-right {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+.line .right .inside-right button {
+  color: white;
+  background-color: #3c9078;
+  width: 100px;
+  height: 30px;
+  border: transparent;
+}
+/* Optional: Adjust select element width */
+.line select {
+  width: 150px; /* Adjust select width as needed */
+}
+.container-bank-inner .content .right {
+  margin-top: 10px;
+  margin-left: 300px;
+  background-color: #3c9078;
+  border-radius: 30px;
+  text-align: center;
+  padding: 0 auto;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  padding: 30px;
+}
+.choice ul {
+  list-style: none;
+}
+.choice ul li {
+  display: inline-block;
+  margin-left: 30px;
+}
+.choice ul li button {
+  color: #3c9078;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 5px 10px;
+  border: none;
+  background-color: white;
+}
+.choice ul li .active {
+  background-color: rgb(231, 230, 230);
+}
+hr {
+  border-color: rgba(
+    237,
+    237,
+    237,
+    0.3
+  ); /* Sets the color of the horizontal rule */
+  border-width: 1px; /* Sets the width of the horizontal rule */
+}
+.container {
+  width: 450px;
+  padding: 20px;
+  background-color: #fefffe;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 500px;
+  border-radius: 30px;
+}
+.container-bank-inner {
+  width: 600px;
+  padding: 20px;
+  background-color: #fefffe;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 150px;
+  border-radius: 30px;
+}
+.container-bank h2 {
+  color: #3c9078;
+}
+.container-bank-inner-correction {
+  width: 600px;
+  padding: 20px;
+  background-color: #fefffe;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 200px;
+  border-radius: 30px;
+  margin-top: 50px;
+}
+.container h2 {
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-top: 80px;
+  color: #3c9078;
+}
+
+.container input[type="email"],
+.container input[type="password"],
+.container input[type="text"] {
+  width: 350px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  border-radius: 15px;
+  background-color: white;
+  border-color: black;
+}
+
+.container a {
+  display: block;
+  text-align: right;
+  margin-top: 1px;
+  color: gold;
+  text-decoration: none;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #3c9078;
+  width: 70%;
+  height: 40px;
+  border-radius: 15px;
+  border: none;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  color: white;
+}
+
+.container p {
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.container form label {
+  display: block;
+  margin-bottom: 5px;
+  margin-left: 50px;
+}
+
+.nav-bar img {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.nav-bar-bank {
+  display: flex;
+}
+.nav-bar-bank .nav-container .content {
+  display: flex;
+}

@@ -1,0 +1,41 @@
+<nav class="nav-bar-bank">
+    <img src="../../../../assets/logo-edit.png" alt="">
+    <div class="nav-container">
+        <div class="content">
+            <div>
+                <img src="../../../../assets/profile.jpeg" alt="">
+            </div>
+            <div class="mido">
+                <h2>Momkn</h2>
+                <p>Super admin</p>
+            </div>
+            <div class="icon"><button style="background-color: transparent; border:transparent;"><i
+                        class="fa-solid fa-right-from-bracket" (click)="logout()"></i></button></div>
+        </div>
+    </div>
+</nav>
+<hr>
+<section class="choice">
+    <ul class="unstyled">
+        <li><button class="active">Balance</button></li>
+        <li><button (click)="depositepage()">Transactions</button></li>
+        <li><button (click)="reportPage()">Reports</button></li>
+    </ul>
+</section>
+<hr>
+<section>
+    <section class="container-bank">
+        <div class="container-bank-inner">
+            <div class="content" style="display: flex;">
+                <div class="left">
+                    <h2>Momkn Balance</h2>
+                    <p>EGP {{balance}}</p>
+                </div>
+                <div class="right">
+                    <i class="fa-solid fa-wallet" style="display: block;"></i>
+                </div>
+            </div>
+            <p style="color: #3c9078; font-size: 15px; font-weight: bold;">last updated in: {{ lastUpdated }}</p>
+        </div>
+    </section>
+</section>

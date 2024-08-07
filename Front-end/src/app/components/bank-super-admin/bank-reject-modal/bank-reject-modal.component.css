@@ -1,0 +1,40 @@
+.close {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 10px;
+}
+.text-area {
+  width: 550px;
+  height: 200px;
+}
+.bank-modal-buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+}
+.bank-modal-buttons button {
+  display: block;
+  margin: 10px;
+}
+.bank-modal-buttons .cancel {
+  background-color: white;
+  color: #3c9078;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid #3c9078;
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+}
+.bank-modal-buttons .submit {
+  background-color: #3c9078;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: transparent;
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+  display: block;
+  margin-right: 10px;
+}

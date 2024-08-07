@@ -1,0 +1,35 @@
+<div class="close">
+    <i class="fa-solid fa-xmark" (click)="onClose()"></i>
+</div>
+<h2 mat-dialog-title class="title">Create New Deposit</h2>
+<mat-dialog-content class="bank-modal">
+    <form>
+        <label for="Bank Name" class="label">Bank Name</label>
+        <mat-form-field>
+            <input matInput placeholder="Bank Name" [(ngModel)]="bankName" name="bankName"
+                placeholder="National Bank of Egypt">
+        </mat-form-field>
+        <label for="Bank Account Number" class="label">Bank Account Number</label>
+        <mat-form-field>
+            <input matInput placeholder="Bank Account Number" [(ngModel)]="accountNumber" name="accountNumber"
+                placeholder="0000000000000">
+        </mat-form-field>
+        <label for="Amount" class="label">Amount</label>
+        <mat-form-field>
+            <input matInput type="number" placeholder="Amount" [(ngModel)]="amount" name="amount">
+        </mat-form-field>
+        <!-- Drag and drop area -->
+        <label for="recipt" class="label">Attach Recipt Photo</label>
+        <div class="drop-area" (dragover)="onDragOver($event)" (dragleave)="onDragLeave($event)"
+            (drop)="onDrop($event)">
+            <h3 class="drop">Drop your image here, or browse</h3>
+            <div class="center"><i class="fa-solid fa-image"></i></div>
+            <input type="file" (change)="onFileSelected($event)" class="center">
+            <img *ngIf="imageUrl" [src]="imageUrl" class="preview-image" alt="Selected Image">
+        </div>
+    </form>
+</mat-dialog-content>
+<mat-dialog-actions class="inline">
+    <button mat-button (click)="onClose()" class="cancel">Cancel</button>
+    <button mat-button (click)="onSubmit()" class="submit">Submit</button>
+</mat-dialog-actions>

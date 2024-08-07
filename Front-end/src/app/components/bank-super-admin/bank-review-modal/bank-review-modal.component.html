@@ -1,0 +1,25 @@
+<div class="close">
+    <i class="fa-solid fa-xmark" (click)="onClose()"></i>
+</div>
+<h2 mat-dialog-title class="title">Deposit Details</h2>
+<mat-dialog-content class="bank-modal">
+    <div class="input-group">
+        <p><strong>Bank Name:</strong></p>
+        <p class="data">{{ data.bankName }}</p>
+    </div>
+    <div class="input-group">
+        <p><strong>Bank Number:</strong></p>
+        <p class="data">{{ data.bankAccountNumber }}</p>
+    </div>
+    <div class="input-group">
+        <p><strong>Amount:</strong></p>
+        <p class="data">{{ data.amount }}</p>
+    </div>
+    <img *ngIf="data.imagePath
+    " [src]="data.imagePath
+" class="preview-image" alt="Bank Image">
+</mat-dialog-content>
+<mat-dialog-actions class="bank-modal-buttons">
+    <button mat-button (click)="onReject()" class="reject">Reject</button>
+    <button mat-button class="approved" (click)="onApprove()">Approved</button>
+</mat-dialog-actions>
